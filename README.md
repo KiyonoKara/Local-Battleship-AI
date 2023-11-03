@@ -1,4 +1,11 @@
 # Local Battleship AI
+<div>
+   <p>
+      <a><img src="https://img.shields.io/badge/Language-Java-blue" alt="Java"></a>
+      <a><img src="https://shields.io/github/languages/code-size/KiyonoKara/Local-Battleship-AI?color=ffc300" alt="Code Size"/></a>
+   </p>
+</div>
+
 A project that lets you run a local server and let's play your battleship AI against the server. You can also play against other AI players without the server. All game sessions are printed and visualized on the console.
 
 ## Usage
