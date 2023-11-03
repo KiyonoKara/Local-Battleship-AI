@@ -35,3 +35,4 @@ User starts a local server and plays against it with an instance of `AbstractPla
 1. Build Automation: Gradle
 2. Unit Testing: JUnit 5.8.1
 3. Test Coverage: JaCoCo
+4. JSON: FasterXML Jackson
