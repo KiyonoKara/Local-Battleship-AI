@@ -31,3 +31,6 @@ User starts a local server and plays against it with an instance of `AbstractPla
    - 35001
 5. Once your Driver is connected, you can watch as the session takes place.
 
+## Tools
+1. Build Automation: Gradle
+2. Test Coverage: JaCoCo
