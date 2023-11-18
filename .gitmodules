@@ -1,0 +1,3 @@
+[submodule "battleship_original"]
+	path = battleship_original
+	url = https://github.com/KiyonoKara/Local-Battleship-AI-Original
